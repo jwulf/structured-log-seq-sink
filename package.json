@@ -30,6 +30,9 @@
     "rollup-plugin-babel": "^2.6.1",
     "sinon": "^1.17.7"
   },
+  "dependencies": {
+    "node-fetch": "^1.6.3"
+  },
   "peerDependencies": {
     "structured-log": "^0.1.0-alpha || ^0.0.18"
   }
